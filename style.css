@@ -1,17 +1,11 @@
-/* Fonts from Google Fonts - more at https://fonts.google.com */
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
-@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+/* CSS files add styling rules to your content */
 
 body {
-  background-color: white;
-  font-family: "Open Sans", sans-serif;
-  padding: 5px 25px;
-  font-size: 18px;
-  margin: 0;
-  color: #444;
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
 }
 
 h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;
+  font-style: italic;
+  color: #373fff;
 }
